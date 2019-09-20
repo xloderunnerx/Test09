@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace MainMenu.Cube
+namespace MainMenu
 {
     public class RandomRotation : MonoBehaviour
     {
